@@ -4,5 +4,6 @@ int main(void) {
     printf("meowh");
     printf("wow");
     printf("fuck");
+    printf("fire");
     return 0;
 }
