@@ -8,5 +8,3 @@ int main(void) {
     printf("free");
     return 0;
 }
-    return 0;
-}
