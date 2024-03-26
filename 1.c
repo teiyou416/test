@@ -5,5 +5,8 @@ int main(void) {
     printf("wow");
     printf("fuck");
     printf("fire");
+    printf("free");
+    return 0;
+}
     return 0;
 }
